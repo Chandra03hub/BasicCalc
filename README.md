@@ -1,17 +1,8 @@
 # BasicCalc
-A basic calculator package in Python that supports add, subtract, multiply, and divide operations.
 
+A basic package in Python that supports add, subtract, multiply, and divide operations.
 
-# BasicCalc
-
-A simple Python calculator package that supports basic arithmetic operations:
-- Addition
-- Subtraction
-- Multiplication
-- Division
-
----
-
+ 
 ## 📦 Installation
 
 Clone the repository:
