@@ -33,3 +33,8 @@ BasicCalc/
 │   └── division.py
 ├── test_calc.py
 ├── README.md
+
+
+
+## Running program
+python test_calc.py
