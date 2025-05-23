@@ -13,7 +13,7 @@ cd BasicCalc
 
 
 
-**## Python script**
+## Python script
 from MyPackage import add, subtract, multiply, divide
 
 print(add(5, 3))        # 8  
@@ -22,7 +22,7 @@ print(multiply(6, 7))   # 42
 print(divide(20, 5))    # 4.0
 
 
-**## Project Structure**
+## Project Structure
 
 BasicCalc/
 ├── MyPackage/
